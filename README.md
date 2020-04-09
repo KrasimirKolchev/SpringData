@@ -1,4 +1,4 @@
-#Java DB module
+#Java DB module at [SoftUni](https://softuni.bg)
 
 
 MySQL : (https://softuni.bg/trainings/2752/mysql-january-2020)
