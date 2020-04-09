@@ -2,6 +2,8 @@
 
 Spring Data : (https://softuni.bg/trainings/2612/spring-data-february-2020)
 <br/>
+[SoftUni Certificate]()
+<br/>
 
   * [DB Apps Introduction](https://github.com/KrasimirKolchev/Java-DB/tree/master/SpringData/DbAppsIntroduction)
   * [ORM Fundamentals]()
@@ -18,6 +20,8 @@ Spring Data : (https://softuni.bg/trainings/2612/spring-data-february-2020)
 
 
 MySQL : (https://softuni.bg/trainings/2752/mysql-january-2020)
+<br/>
+[SoftUni Certificate](https://softuni.bg/certificates/certificates/converttoimage/78877?code=51b6794b)
 <br/>
 
   * [DB Introduction, Data Definition And Datatypes](https://github.com/KrasimirKolchev/Java-DB/tree/master/MySQL/DB%20Introduction%20Data%20Definition%20And%20Datatypes)
