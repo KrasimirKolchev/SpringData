@@ -3,7 +3,7 @@
 
 MySQL : (https://softuni.bg/trainings/2752/mysql-january-2020)
 <br/>
-[SoftUni Certificate](https://softuni.bg/certificates/certificates/converttoimage/78877?code=51b6794b)
+[SoftUni Certificate](https://softuni.bg/certificates/details/78877/51b6794b)
 <br/>
 
   * [DB Introduction, Data Definition And Datatypes](https://github.com/KrasimirKolchev/Java-DB/tree/master/MySQL/DB%20Introduction%20Data%20Definition%20And%20Datatypes)
@@ -20,7 +20,7 @@ MySQL : (https://softuni.bg/trainings/2752/mysql-january-2020)
 
 Spring Data : (https://softuni.bg/trainings/2612/spring-data-february-2020)
 <br/>
-[SoftUni Certificate](https://softuni.bg/certificates/certificates/converttoimage/78917?code=d19a62df)
+[SoftUni Certificate](https://softuni.bg/certificates/details/78917/d19a62df)
 <br/>
 
   * [DB Apps Introduction](https://github.com/KrasimirKolchev/Java-DB/tree/master/SpringData/DbAppsIntroduction)
